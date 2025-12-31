@@ -1,7 +1,6 @@
 # Basic HTML Website
 
-This is a simple multi-page HTML-only website created to understand
-semantic HTML structure and navigation.
+This is a simple multi-page HTML-only website created to understand semantic HTML structure and navigation.
 
 ## Pages
 - Home
@@ -10,5 +9,7 @@ semantic HTML structure and navigation.
 - Contact
 
 ## Project URL
-https://divvaladeekshith63.github.io/basic-html-website/
+[View Live Project](https://divvaladeekshith63.github.io/basic-html-website/)
+
+
 
